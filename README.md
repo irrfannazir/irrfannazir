@@ -1,6 +1,8 @@
 # I'm Irfan Nazir.
-
 ### Tech Enthusiast | Software Developer | Full-Stack Developer
+
+a passionate tech enthusiast with a strong foundation in full stack development and software engineering. With deep expertise in C programming, I build efficient systems and scalable applications. My skillset extends beyond code—I’m experienced in working with Raspberry Pi, microcontrollers, and various System on Chip (SoC) devices. I also have a growing interest in cybersecurity, ensuring the solutions I create are not only powerful but secure. Whether it's web, embedded systems, or security, I thrive at the intersection of hardware and software.
+
 
 
 ### Contact Me
