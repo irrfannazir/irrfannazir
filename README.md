@@ -57,7 +57,7 @@ a passionate tech enthusiast with a strong foundation in full stack development 
 ![NodeMCU](https://img.shields.io/badge/NodeMCU-4B8BBE?logo=espressif&logoColor=white&style=for-the-badge)
 
 
-![](https://readme-typing-svg.demolab.com/?lines=Your+career+isn’t+a+ladder+to+climb-+it’s+a+mountain+to+shape.;Keep+carving+your+path,+even+when+the+summit+hides+in+the+clouds.;You+learn+nothing+by+cloning,+you+learn+by+building+something+yourself.&center=true&width=800&height=45&color=00FFFF&size=20)
+![](https://readme-typing-svg.demolab.com/?lines=Your+career+isn’t+a+ladder+to+climb-+it’s+a+mountain+to+shape.;Keep+carving+your+path,+even+when+the+summit+hides+in+the+clouds.;You+learn+nothing+by+cloning,+you+learn+by+building+something.&center=true&width=800&height=45&color=00FFFF&size=20)
 
 
 <!--
