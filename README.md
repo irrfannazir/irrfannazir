@@ -6,11 +6,12 @@ a passionate tech enthusiast with a strong foundation in full stack development 
 
 
 ### Contact Me
-![LinkedIn](https://in.linkedin.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-irrfan__nazir-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/irrfan_nazir)
 
 ### Tech Stack
 
-**Languages**  
+**Languages:**
+
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white&style=for-the-badge)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
@@ -18,7 +19,8 @@ a passionate tech enthusiast with a strong foundation in full stack development 
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![Cython](https://img.shields.io/badge/Cython-FFD43B?logo=python&logoColor=black&style=for-the-badge)
 
-**Frontend**  
+**Frontend:**
+
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
@@ -27,7 +29,8 @@ a passionate tech enthusiast with a strong foundation in full stack development 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 
-**Backend & Tools**  
+**Backend & Tools:**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
@@ -39,12 +42,20 @@ a passionate tech enthusiast with a strong foundation in full stack development 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?logo=github&logoColor=white&style=for-the-badge)
 
-**Design & Media**  
+**Design & Media:**
+
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=for-the-badge)
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?logo=adobe-after-effects&logoColor=white&style=for-the-badge)
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?logo=adobe-premiere-pro&logoColor=white&style=for-the-badge)
 ![Kdenlive](https://img.shields.io/badge/Kdenlive-5271FF?logo=kdenlive&logoColor=white&style=for-the-badge)
 ![FL Studio](https://img.shields.io/badge/FL_Studio-F57C00?logo=fl-studio&logoColor=white&style=for-the-badge)
+
+**Embedded & Hardware:**
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberry-pi&logoColor=white&style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)
+![NodeMCU](https://img.shields.io/badge/NodeMCU-4B8BBE?logo=espressif&logoColor=white&style=for-the-badge)
+
 
 
 
