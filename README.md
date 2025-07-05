@@ -3,11 +3,10 @@
 Tech Enthusiast | Software Developer | Full-Stack Developer
 
 ### Contact Me
-[LinkedIn](https://in.linkedin.com/)
+![LinkedIn](https://in.linkedin.com/)
 
 ### Tech Stack
 
-**Languages:**  
 **Languages**  
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white&style=for-the-badge)
