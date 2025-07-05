@@ -1,6 +1,7 @@
-# Hi there, I'm Irfan Nazir.
+# I'm Irfan Nazir.
 
-Tech Enthusiast | Software Developer | Full-Stack Developer
+# Tech Enthusiast | Software Developer | Full-Stack Developer
+
 
 ### Contact Me
 ![LinkedIn](https://in.linkedin.com/)
