@@ -8,8 +8,6 @@ A passionate tech enthusiast with a strong foundation in full stack development 
 ### Contact Me
 [![Instagram](https://img.shields.io/badge/Instagram-irrfan__nazir-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/irrfan_nazir)
 
----
-
 
 ### Tech Stack
 
