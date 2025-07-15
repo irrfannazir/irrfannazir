@@ -2,11 +2,14 @@
 ### Tech Enthusiast | Software Developer | Full-Stack Developer
 
 
-a passionate tech enthusiast with a strong foundation in full stack development and software engineering. With deep expertise in C programming, I build efficient systems and scalable applications. My skillset extends beyond code—I’m experienced in working with Raspberry Pi, microcontrollers, and various System on Chip (SoC) devices. I also have a growing interest in cybersecurity, ensuring the solutions I create are not only powerful but secure. Whether it's web, embedded systems, or security, I thrive at the intersection of hardware and software.
+A passionate tech enthusiast with a strong foundation in full stack development and software engineering. With deep expertise in C programming, I build efficient systems and scalable applications. My skillset extends beyond code—I’m experienced in working with Raspberry Pi, microcontrollers, and various System on Chip (SoC) devices. I also have a growing interest in cybersecurity, ensuring the solutions I create are not only powerful but secure. Whether it's web, embedded systems, or security, I thrive at the intersection of hardware and software.
 
 
 ### Contact Me
 [![Instagram](https://img.shields.io/badge/Instagram-irrfan__nazir-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/irrfan_nazir)
+
+---
+
 
 ### Tech Stack
 
@@ -19,6 +22,7 @@ a passionate tech enthusiast with a strong foundation in full stack development 
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![Cython](https://img.shields.io/badge/Cython-FFD43B?logo=python&logoColor=black&style=for-the-badge)
 
+
 **Frontend:**
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
@@ -28,6 +32,7 @@ a passionate tech enthusiast with a strong foundation in full stack development 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+
 
 **Backend & Tools:**
 
@@ -42,6 +47,7 @@ a passionate tech enthusiast with a strong foundation in full stack development 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?logo=github&logoColor=white&style=for-the-badge)
 
+
 **Design & Media:**
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=for-the-badge)
@@ -50,27 +56,14 @@ a passionate tech enthusiast with a strong foundation in full stack development 
 ![Kdenlive](https://img.shields.io/badge/Kdenlive-5271FF?logo=kdenlive&logoColor=white&style=for-the-badge)
 ![FL Studio](https://img.shields.io/badge/FL_Studio-F57C00?logo=fl-studio&logoColor=white&style=for-the-badge)
 
+
 **Embedded & Hardware:**
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberry-pi&logoColor=white&style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)
 ![NodeMCU](https://img.shields.io/badge/NodeMCU-4B8BBE?logo=espressif&logoColor=white&style=for-the-badge)
 
+---
 
 ![](https://readme-typing-svg.demolab.com/?lines=Your+career+isn’t+a+ladder+to+climb-+it’s+a+mountain+to+shape.;Keep+carving+your+path,+even+when+the+summit+hides+in+the+clouds.;You+learn+nothing+by+cloning,+you+learn+by+building+something.&center=true&width=800&height=45&color=00FFFF&size=20)
 
-
-<!--
-**irrfannazir/irrfannazir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
